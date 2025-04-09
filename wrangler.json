@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "agrocrypto-db",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "f2488bd3-98e2-442d-983c-ff8a13661165",
+      "database_name": "agrocrypto-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
